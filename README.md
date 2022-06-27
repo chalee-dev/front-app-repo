@@ -1,2 +1,2 @@
-# Amazon EKS Demo 3 
+# Amazon EKS Demo 4 
 This repo holds **React Frontend sample** for [Amazon EKS Hands on Lab](https://master.d3s71i2n51x60t.amplifyapp.com/ko/)
